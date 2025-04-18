@@ -69,7 +69,7 @@ export default function MehulJainProfile() {
                 <li>Sales Executive @ Priyakarnı Forex & Travels (2021–2023)</li>
                 <li>Industry Visitor @ ZUBDHA Pvt Ltd (2023)</li>
                 <li>Talent & Social Media Associate @ Celebrity Face Pvt Ltd (2018–2022)</li>
-                <li>Tech Club Member @ XINO (2016–2018)</li>
+                <li>Tech Club Member @ XINO (201 6–2018)</li>
                 <li>Theatre Artist @ National School of Drama (2016–2018)</li>
               </ul>
             </ScrollArea>
@@ -125,6 +125,3 @@ export default function MehulJainProfile() {
     </div>
   );
 }
-
-
-
