@@ -1,128 +1,225 @@
-```javascript
-import { Card, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { ScrollArea } from "@/components/ui/scroll-area";
-import { Switch } from "@/components/ui/switch";
-import { Sun, Moon, Download } from "lucide-react";
-import { motion } from "framer-motion";
-import Image from "next/image";
-import { useState } from "react";
+# Mehul Jain 👨‍💻
 
-export default function MehulJainProfile() {
-  const [darkMode, setDarkMode] = useState(false);
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehuljain923/)](https://www.linkedin.com/in/mehuljain923/)
+[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white&link=https://github.com/mehuljain133)](https://github.com/mehuljain133)
 
-  return (
-    <div className={`p-4 md:p-8 space-y-6 min-h-screen transition-all duration-500 ${darkMode ? 'bg-black text-white' : 'bg-white text-black'}`}>
-      <div className="flex justify-between items-center">
-        <h1 className="text-3xl font-bold">👨‍💻 Mehul Jain</h1>
-        <div className="flex items-center gap-4">
-          <Switch checked={darkMode} onCheckedChange={() => setDarkMode(!darkMode)} />
-          {darkMode ? <Moon size={20} /> : <Sun size={20} />}
-          <Button variant="outline" size="sm" onClick={() => window.print()}>
-            <Download className="mr-2 h-4 w-4" /> PDF
-          </Button>
-        </div>
-      </div>
+## 📍 Location:
+New Delhi, Delhi, India - 110052  
 
-      <motion.div className="flex justify-center" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }}>
-        <Image
-          src="https://avatars.githubusercontent.com/u/130870177?v=4"
-          alt="Mehul Jain Avatar"
-          width={120}
-          height={120}
-          className="rounded-full border-4 border-blue-500"
-        />
-      </motion.div>
+## 📧 Contact:
+- **Email:** [mca_70817704423_mehul@vipstc.edu.in](mailto:mca_70817704423_mehul@vipstc.edu.in)
+- **Phone:** +91-9711987481
 
-      <motion.p className="text-muted-foreground text-center" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}>
-        MCA @ VIPS-TC (GGSIPU) | AI/ML Engineer | Full-Stack Developer | Resume Analyzer Dev | Data Science Enthusiast | Placement Coordinator
-      </motion.p>
+---
 
-      <motion.div initial={{ y: 50, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.5 }}>
-        <Tabs defaultValue="education">
-          <TabsList className="flex flex-wrap gap-2">
-            <TabsTrigger value="education">🎓 Education</TabsTrigger>
-            <TabsTrigger value="experience">💼 Experience</TabsTrigger>
-            <TabsTrigger value="internships">🎯 Internships</TabsTrigger>
-            <TabsTrigger value="projects">🧪 Projects</TabsTrigger>
-            <TabsTrigger value="awards">🏅 Achievements</TabsTrigger>
-            <TabsTrigger value="extras">🎭 Activities</TabsTrigger>
-          </TabsList>
+## 🧑‍🎓 Education
 
-          <TabsContent value="education">
-            <ScrollArea className="h-64">
-              <ul className="list-disc list-inside space-y-2">
-                <li><strong>MCA</strong> - VIPS-TC (GGSIPU), 2023–2025, CGPA: 8.6</li>
-                <li><strong>BSc (Hons) CS</strong> - SGTB Khalsa College, DU, 2020–2023, 70%</li>
-                <li><strong>12th</strong> - DPS Rohini, CBSE, 2020, 97%</li>
-                <li><strong>10th</strong> - DPS Rohini, CBSE, 2018, 93%</li>
-              </ul>
-            </ScrollArea>
-          </TabsContent>
+### M.C.A. - Computer Applications
+**Vivekananda Institute of Professional Studies (IP University)**  
+**Duration:** 2023 - 2025 | **CGPA:** 8.60 / 10
 
-          <TabsContent value="experience">
-            <ScrollArea className="h-64">
-              <ul className="list-disc list-inside space-y-2">
-                <li>Placement Coordinator @ VIPS-TC (2024–Present)</li>
-                <li>Sales Executive @ Priyakarnı Trade & Leads Pvt Ltd (2023–Present)</li>
-                <li>Sales Executive @ Priyakarnı Forex & Travels (2021–2023)</li>
-                <li>Industry Visitor @ ZUBDHA Pvt Ltd (2023)</li>
-                <li>Talent & Social Media Associate @ Celebrity Face Pvt Ltd (2018–2022)</li>
-                <li>Tech Club Member @ XINO (201 6–2018)</li>
-                <li>Theatre Artist @ National School of Drama (2016–2018)</li>
-              </ul>
-            </ScrollArea>
-          </TabsContent>
+### B.Sc. in Computer Science (Hons)
+**Sri Guru Tegh Bahadur Khalsa College, University of Delhi**  
+**Duration:** 2020 - 2023 | **Percentage:** 70%
 
-          <TabsContent value="internships">
-            <ScrollArea className="h-64">
-              <ul className="list-disc list-inside space-y-2">
-                <li>IBM SkillsBuild – Data Science Intern (Oct–Nov 2024)</li>
-                <li>Oasis Infobyte – Data Science Intern (Sep–Oct 2024)</li>
-              </ul>
-            </ScrollArea>
-          </TabsContent>
+### 12th Grade - CBSE
+**Delhi Public School Rohini, New Delhi**  
+**Percentage:** 97 / 100
 
-          <TabsContent value="projects">
-            <ScrollArea className="h-64">
-              <ul className="list-disc list-inside space-y-2">
-                <li><a className="text-blue-500 underline" href="https://github.com/mehuljain133/Jarvis-Desktop-Voice-Assistant">Jarvis Desktop Voice Assistant</a></li>
-                <li><a className="text-blue-500 underline" href="https://github.com/mehuljain133/Face_recognition_based_attendance_system">Face Recognition Attendance System</a></li>
-                <li><a className="text-blue-500 underline" href="https://github.com/mehuljain133/Accounting-Software-using-ASP.NET-Core-Web-Development-Framework">Accounting Software in ASP.NET Core</a></li>
-                <li><a className="text-blue-500 underline" href="https://github.com/mehuljain133/AI-Nexus">AI-Nexus</a></li>
-                <li><a className="text-blue-500 underline" href="https://github.com/mehuljain133/AI-Resume-Analyzer-And-Builder">AI Resume Analyzer & Builder</a></li>
-                <li><a className="text-blue-500 underline" href="https://github.com/mehuljain133/Github-Terminal">GitHub Terminal</a></li>
-              </ul>
-            </ScrollArea>
-          </TabsContent>
+### 10th Grade - CBSE
+**Delhi Public School Rohini, New Delhi**  
+**Percentage:** 93 / 100
 
-          <TabsContent value="awards">
-            <ScrollArea className="h-64">
-              <ul className="list-disc list-inside space-y-2">
-                <li>Certificate of Appreciation – Ministry of Culture</li>
-                <li>Publication: Smart Attendance System with Face Recognition</li>
-                <li>Developed and Deployed Full-stack Resume Analytics Tool</li>
-                <li>Organized campus-wide tech and cultural events</li>
-                <li>Top performer in coding challenges and data competitions</li>
-              </ul>
-            </ScrollArea>
-          </TabsContent>
+---
 
-          <TabsContent value="extras">
-            <ScrollArea className="h-64">
-              <ul className="list-disc list-inside space-y-2">
-                <li>Volunteer: Donation Drives, Campus Initiatives</li>
-                <li>Tech Club (XINO), Theatre (NSD), Influencer Campaigns</li>
-                <li>Hobbies: AI Audio/Video Editing, YouTube Content, Competitive Coding</li>
-                <li>Sports: Cricket 🏏, Football ⚽, Badminton 🏸</li>
-                <li>Other Interests: Productivity Tools, Startup Ideation, Tech for Good</li>
-              </ul>
-            </ScrollArea>
-          </TabsContent>
-        </Tabs>
-      </motion.div>
-    </div>
-  );
-}
+## 🏆 Achievements
+- **Certificate of Appreciation – Ministry of Culture**
+- **Key Accomplishments:**  
+  Developed AI-powered tools, automated desktop assistants, and contributed significantly to the field of Machine Learning and Data Science.
+
+---
+
+## 💼 Professional Experience
+
+### Placement Coordinator
+**Vivekananda Institute of Professional Studies, New Delhi**  
+**Duration:** Jan 2024 - Present  
+- Coordinating campus recruitment activities and facilitating pre-placement training sessions.
+- Managing relationships with companies and aligning student profiles with industry needs.
+- Organizing on-campus and virtual recruitment drives.
+
+### Sales Executive
+**PRIYAKARNI TRADE & LEADS PRIVATE LIMITED, New Delhi**  
+**Duration:** Apr 2023 - Present  
+- Conducted market research and developed client relationships to promote forex and travel-related services.
+- Prepared and delivered sales presentations, closing deals effectively.
+- Collaborated with the marketing team to optimize sales strategies.
+
+### Industry Visitor
+**ZUBDHA PVT LTD, New Delhi**  
+**Duration:** Dec 2023  
+- Gained insights into industry practices and workflows.
+- Engaged in discussions about industry trends and innovations.
+
+### Sales Executive
+**PRIYAKARNI FOREX & TRAVELS PRIVATE LIMITED, New Delhi**  
+**Duration:** Jan 2021 - Mar 2023  
+- Promoted forex services and exceeded sales targets.
+- Nurtured client relationships to boost customer satisfaction and loyalty.
+
+### Member  
+**Celebrity Face Private Limited, New Delhi**  
+**Duration:** Jan 2018 - Dec 2022  
+- Worked with influencers and celebrities for social media campaigns.
+- Assisted in organizing virtual events, photoshoots, and promotional activities.
+
+---
+
+## 🧑‍💻 Internships
+
+### Data Science Intern
+**IBM SkillsBuild Student Ambassador Program, New Delhi**  
+**Duration:** Oct 2024 - Nov 2024  
+- Built machine learning models using scikit-learn, TensorFlow, and Keras.
+- Developed interactive web applications using Django and Flask.
+- Deployed models on cloud platforms like AWS and Azure.
+
+### Data Science Intern
+**Oasis Infobyte, New Delhi**  
+**Duration:** Sep 2024 - Oct 2024  
+- Worked on machine learning algorithms and conducted exploratory data analysis (EDA).
+- Developed predictive models and assisted in automating data pipelines.
+
+### Development Intern
+**IBM SkillsBuild Student Ambassador Program**  
+**Duration:** Jun 2024 - Jul 2024  
+- Focused on AI and Machine Learning model development.
+- Collaborated with the team to integrate APIs and develop robust systems.
+
+---
+
+## 🛠️ Skills & Expertise
+
+### **Programming Languages:**
+- Python, R, Java, C, C++, SQL, JavaScript, TypeScript, PHP, HTML, CSS, Go, Assembly Language
+
+### **Web Development:**
+- HTML, CSS, JavaScript, Node.js, React.js, Angular, Bootstrap, jQuery, AJAX, JSON, XML
+
+### **Data Science & Machine Learning:**
+- Data Analysis, Data Preprocessing, Feature Engineering, Supervised & Unsupervised Learning
+- Libraries: Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, Matplotlib, Seaborn, Plotly
+
+### **AI & Deep Learning:**
+- TensorFlow, Keras, PyTorch, Neural Networks
+- Implemented deep learning models for classification, regression, and NLP.
+
+### **Database Management:**
+- MySQL, SQL Server, PostgreSQL, SQLite, MongoDB, PL/SQL
+
+### **Mobile App Development:**
+- Flutter, Dart, Android Studio
+
+### **Software Engineering & OOP:**
+- Object-Oriented Programming (OOP) Design
+
+---
+
+## 🖥️ Projects
+
+### Weather App and 5 Day Forecast
+**Tech Stack:** Django, OpenWeather API  
+- A weather app that fetches real-time data and displays it based on user input.
+- Features light mode, with dark mode development in progress.
+
+### Jarvis Desktop Voice Assistant
+**Tech Stack:** Python, PyAudio, Tkinter  
+- A voice assistant for automating tasks such as launching apps, searching the web, and playing music.
+- Greets the user and saves notes in text files.
+
+### AI Resume Analyzer
+**Tech Stack:** Python, Streamlit, MySQL, pandas, NLTK, Plotly  
+- Analyzes resumes, extracts keywords, and provides recommendations based on role matching.
+- Generates analytics and resume feedback for improvement.
+
+### Face Recognition Based Attendance System
+**Tech Stack:** Python, Tkinter, OpenCV  
+- Automated attendance system using face recognition.
+- Captures attendance in CSV files and updates in real time.
+
+### **Jarvis-Desktop-Voice-Assistant**  
+**Tech Stack:** Python  
+- An interactive voice assistant built using Python, providing automated solutions to common tasks.
+
+### **Face_recognition_based_attendance_system**  
+**Tech Stack:** Python  
+- A face-recognition-based attendance system to automatically mark attendance with ease.
+
+### **Accounting-Software-using-ASP.NET-Core-Web-Development-Framework**  
+**Tech Stack:** ASP.NET Core, C#, SQL  
+- Accounting software that allows users to journalize transactions, post journals, prepare trial balances, and adjust accounts.
+
+### **AI-Nexus**  
+**Tech Stack:** Jupyter Notebook, Python  
+- AI-powered system for predicting and recommending solutions in various industries.
+
+### **AI-Resume-Analyzer-And-Builder**  
+**Tech Stack:** Python  
+- A tool to analyze resumes, generate suggestions for improvement, and build optimized resumes using AI techniques.
+
+### **Github-Terminal**  
+**Tech Stack:** Python  
+- A terminal-based tool to interact with GitHub repositories, clone projects, and execute common Git operations directly from the terminal.
+
+---
+
+## 📚 Publications
+
+- **"SMART ATTENDANCE SYSTEM WITH FACE RECOGNITION USING OPENCV"**
+
+---
+
+## 🏆 Co-Curricular & Extra-Curricular Activities
+
+### Co-Curricular:
+- **Donation Drive Volunteer**
+- **Industry Visitor**
+- **Social Media Campaigns and Talent Promotion**
+- **Member, XINO (Tech Club)**
+- **Theater Workshops, National School of Drama (NSD)**
+
+### Extra-Curricular:
+- **Cricket**
+- **Football**
+- **Badminton**
+- **AI Audio-Video Editing**
+- **Video Mashups Creation**
+
+---
+
+## 🧠 Personal Interests & Hobbies
+- **AI Audio-Video Editing**
+- **Coding & Algorithms**
+- **Creating Video Mashups**
+- **Sports (Cricket, Football, Badminton)**
+
+---
+
+## 🔗 Web Links:
+- **GitHub:** [https://github.com/mehuljain133](https://github.com/mehuljain133)
+- **LinkedIn:** [https://www.linkedin.com/in/mehuljain923/](https://www.linkedin.com/in/mehuljain923/)
+
+---
+
+### **Languages:**
+- **English**: Fluent
+- **Hindi**: Fluent
+- **French**: Basic
+
+---
+
+### **Personal Details:**
+- **Gender:** Male
+- **Marital Status:** Single
+
+---
