@@ -1,13 +1,73 @@
 # 👨‍💻 **Mehul Jain** 💻🎓  
 [🔗 **LinkedIn**](https://www.linkedin.com/in/mehuljain923/) | [🐙 **GitHub**](https://github.com/mehuljain133)
 
----
-
 ## 📍 **Location**  
 🏙️ **New Delhi, Delhi, India - 110052**  
 
 ## 📧 **Contact**  
 📩 **Email:** [mca_70817704423_mehul@vipstc.edu.in](mailto:mca_70817704423_mehul@vipstc.edu.in)
+
+
+---
+## 🏆 **Badges**  
+![GitHub followers](https://img.shields.io/github/followers/mehuljain133?label=Follow&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/mehuljain133?label=Stars&style=social)  
+![GitHub forks](https://img.shields.io/github/forks/mehuljain133?label=Forks&style=social)
+
+---
+### 📊 **Stats**  
+![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&hide_title=true&count_private=true&theme=radical)  
+![Mehul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehuljain133&langs_count=8&layout=compact&theme=radical)
+
+---
+## ✨ **About Me**
+I'm a postgraduate computer science student at the Vivekananda Institute of Professional Studies (IP University) with a strong passion for data science, machine learning, AI, and deep learning. My academic journey has equipped me with in-depth knowledge of machine learning, and I'm committed to continuous learning and exploration in the exciting field of AI.
+
+In addition to my academic pursuits, I sharpen my critical thinking and problem-solving skills through coding challenges on platforms like LeetCode. I believe that the combination of theoretical knowledge and practical problem-solving is key to success in the ever-evolving world of technology.
+
+I'm enthusiastic about collaborating with like-minded professionals, discussing emerging trends, and contributing to innovative projects. Let's connect and explore opportunities to work together in the fascinating realm of AI and data science.
+
+---
+
+## 🏆 **Co-Curricular & Extra-Curricular Activities** 🏆  
+
+### Co-Curricular:  
+- 🤲 Donation Drive Volunteer  
+- 🌍 Industry Visitor  
+- 📢 Talent Promotion & Social Campaigns  
+- 💻 Member, XINO (Tech Club)  
+- 🎭 NSD Theater Workshops
+
+### Extra-Curricular:  
+- 🏏 Cricket  
+- ⚽ Football  
+- 🏸 Badminton  
+- 🎬 AI Audio-Video Editing  
+- 🎞️ Video Mashups
+
+---
+
+## 🧠 **Personal Interests & Hobbies** 🧠  
+🎧 AI Audio-Video Editing  
+💻 Coding & Algorithms  
+🎥 Creating Video Mashups  
+🏅 Playing Sports
+
+### **Languages**:  
+🇬🇧 English: Fluent  
+🇮🇳 Hindi: Fluent  
+🇫🇷 French: Basic  
+
+---
+
+### **Personal Details**:  
+👨‍🦱 Gender: Male  
+💍 Marital Status: Single
+
+---
+
+**Top Skills:**  
+Artificial Intelligence (AI) · Machine Learning · Data Analysis · Python · R
 
 ---
 
@@ -29,13 +89,6 @@
 
 ### 📖 10th Grade - CBSE  
 **Delhi Public School Rohini, New Delhi**  
-
----
-
-## 🏆 **Achievements** 🏆  
-🏅 **Certificate of Appreciation – Ministry of Culture**  
-🎯 **Key Accomplishments**:  
-🚀 Developed AI-powered tools, automated desktop assistants, and contributed significantly to the fields of Machine Learning and Data Science.
 
 ---
 
@@ -135,6 +188,13 @@
 
 ---
 
+## 🏆 **Achievements** 🏆  
+🏅 **Certificate of Appreciation – Ministry of Culture**  
+🎯 **Key Accomplishments**:  
+🚀 Developed AI-powered tools, automated desktop assistants, and contributed significantly to the fields of Machine Learning and Data Science.
+
+---
+
 ## 🖥️ **Projects** 🖥️  
 
 ### 🌦️ **Weather App and 5 Day Forecast**  
@@ -173,74 +233,7 @@
 
 ---
 
-## 🏆 **Co-Curricular & Extra-Curricular Activities** 🏆  
-
-### Co-Curricular:  
-- 🤲 Donation Drive Volunteer  
-- 🌍 Industry Visitor  
-- 📢 Talent Promotion & Social Campaigns  
-- 💻 Member, XINO (Tech Club)  
-- 🎭 NSD Theater Workshops
-
-### Extra-Curricular:  
-- 🏏 Cricket  
-- ⚽ Football  
-- 🏸 Badminton  
-- 🎬 AI Audio-Video Editing  
-- 🎞️ Video Mashups
-
----
-
-## 🧠 **Personal Interests & Hobbies** 🧠  
-🎧 AI Audio-Video Editing  
-💻 Coding & Algorithms  
-🎥 Creating Video Mashups  
-🏅 Playing Sports
-
----
-
-## 🔗 **Web Links** 🔗  
-🖥️ **GitHub:** [https://github.com/mehuljain133](https://github.com/mehuljain133)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/mehuljain923/](https://www.linkedin.com/in/mehuljain923/)
-
----
-
-### **Languages**:  
-🇬🇧 English: Fluent  
-🇮🇳 Hindi: Fluent  
-🇫🇷 French: Basic  
-
----
-
-### **Personal Details**:  
-👨‍🦱 Gender: Male  
-💍 Marital Status: Single
-
----
-
-## 🏆 **Badges**  
-![GitHub followers](https://img.shields.io/github/followers/mehuljain133?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/mehuljain133?label=Stars&style=social)  
-![GitHub forks](https://img.shields.io/github/forks/mehuljain133?label=Forks&style=social)
-
-### 📊 **Stats**  
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&hide_title=true&count_private=true&theme=radical)  
-![Mehul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehuljain133&langs_count=8&layout=compact&theme=radical)
-
----
-
 ## 🚀 Let's Connect and Code!  
 Feel free to reach out for collaboration, learning, or exploring tech together! 🤝
 
 ---
-
-## ✨ **About Me**
-I'm a postgraduate computer science student at the Vivekananda Institute of Professional Studies (IP University) with a strong passion for data science, machine learning, AI, and deep learning. My academic journey has equipped me with in-depth knowledge of machine learning, and I'm committed to continuous learning and exploration in the exciting field of AI.
-
-In addition to my academic pursuits, I sharpen my critical thinking and problem-solving skills through coding challenges on platforms like LeetCode. I believe that the combination of theoretical knowledge and practical problem-solving is key to success in the ever-evolving world of technology.
-
-I'm enthusiastic about collaborating with like-minded professionals, discussing emerging trends, and contributing to innovative projects. Let's connect and explore opportunities to work together in the fascinating realm of AI and data science.
-
-**Top Skills:**  
-Artificial Intelligence (AI) · Machine Learning · Data Analysis · Python · R
-
