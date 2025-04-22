@@ -1,7 +1,6 @@
 # Mehul Jain 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehuljain923/)](https://www.linkedin.com/in/mehuljain923/)
-[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white&link=https://github.com/mehuljain133)](https://github.com/mehuljain133)
+[LinkedIn](https://www.linkedin.com/in/mehuljain923/) | [GitHub](https://github.com/mehuljain133)
 
 ## 📍 Location:
 New Delhi, Delhi, India - 110052  
