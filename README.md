@@ -7,19 +7,53 @@
 ## 📧 **Contact**  
 📩 **Email:** [mca_70817704423_mehul@vipstc.edu.in](mailto:mca_70817704423_mehul@vipstc.edu.in)
 
+---
+
+## 🏆 **GitHub Badges**  
+![GitHub Followers](https://img.shields.io/github/followers/mehuljain133?label=Follow&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/mehuljain133?label=Stars&style=social)  
 
 ---
-## 🏆 **Badges**  
-![GitHub followers](https://img.shields.io/github/followers/mehuljain133?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/mehuljain133?label=Stars&style=social)  
-![GitHub forks](https://img.shields.io/github/forks/mehuljain133?label=Forks&style=social)
+
+## 📊 **GitHub Stats & Metrics**  
+### **GitHub Profile Stats**  
+![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&count_private=true&theme=radical)
 
 ---
-### 📊 **Stats**  
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&hide_title=true&count_private=true&theme=radical)  
-![Mehul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehuljain133&langs_count=8&layout=compact&theme=radical)
+
+## 🎓 **GitHub Achievements**  
+### **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehuljain133&theme=radical&no-frame=true&column=7)
 
 ---
+
+## 🛠️ **Tools & Technologies Used**  
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)  
+![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git)  
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github-pages&logoColor=white)  
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-008C69?logo=github&logoColor=white)  
+
+---
+
+## 🚀 **GitHub Projects & Open Source Contributions**  
+- [Open Source Contributions](https://github.com/mehuljain133?tab=repositories)  
+- [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/)  
+
+---
+
+## 💼 **GitHub Sponsors & Open Source**  
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-7289DA?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/mehuljain133)  
+[![GitHub Marketplace](https://img.shields.io/badge/GitHub%20Marketplace-2E3A4B?logo=github&logoColor=white)](https://github.com/marketplace)  
+
+---
+
+## 📈 **GitHub Contribution Graph**  
+![Mehul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehuljain133&theme=radical&hide_border=true)
+
+---
+
 ## ✨ **About Me**
 I'm a postgraduate computer science student at the Vivekananda Institute of Professional Studies (IP University) with a strong passion for data science, machine learning, AI, and deep learning. My academic journey has equipped me with in-depth knowledge of machine learning, and I'm committed to continuous learning and exploration in the exciting field of AI.
 
