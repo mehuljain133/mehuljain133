@@ -8,27 +8,23 @@ New Delhi, Delhi, India - 110052
 
 ## 📧 Contact:
 - **Email:** [mca_70817704423_mehul@vipstc.edu.in](mailto:mca_70817704423_mehul@vipstc.edu.in)
-- **Phone:** +91-9711987481
-
 ---
 
 ## 🧑‍🎓 Education
 
 ### M.C.A. - Computer Applications
 **Vivekananda Institute of Professional Studies (IP University)**  
-**Duration:** 2023 - 2025 | **CGPA:** 8.60 / 10
+**Duration:** 2023 - 2025
 
 ### B.Sc. in Computer Science (Hons)
 **Sri Guru Tegh Bahadur Khalsa College, University of Delhi**  
-**Duration:** 2020 - 2023 | **Percentage:** 70%
+**Duration:** 2020 - 2023
 
 ### 12th Grade - CBSE
 **Delhi Public School Rohini, New Delhi**  
-**Percentage:** 97 / 100
 
 ### 10th Grade - CBSE
 **Delhi Public School Rohini, New Delhi**  
-**Percentage:** 93 / 100
 
 ---
 
