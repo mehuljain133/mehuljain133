@@ -43,87 +43,95 @@
 
 ### 📅 **Placement Coordinator**  
 **Vivekananda Institute of Professional Studies, New Delhi**  
-**Duration:** Jan 2024 - Present  
+**Duration:** Feb 2024 - Apr 2025 · 1 yr 3 mos (Hybrid)  
 - 🤝 Coordinating campus recruitment activities and facilitating pre-placement training sessions.  
 - 📈 Managing relationships with companies and aligning student profiles with industry needs.  
-- 🌍 Organizing on-campus and virtual recruitment drives.
+- 🌍 Organizing on-campus and virtual recruitment drives.  
+- Skills: Management · Organizational Leadership · Design Placement Paper · Team Building · Papermaking · Leadership Development · Microsoft Excel · Team Leadership · Educational Leadership
 
 ### 💼 **Sales Executive**  
 **PRIYAKARNI TRADE & LEADS PRIVATE LIMITED, New Delhi**  
-**Duration:** Apr 2023 - Present  
+**Duration:** Apr 2023 - Jan 2025 · 1 yr 10 mos (Hybrid)  
 - 📊 Conducted market research and developed client relationships to promote forex and travel-related services.  
-- 📈 Prepared and delivered sales presentations, closing deals effectively.  
-- 📣 Collaborated with the marketing team to optimize sales strategies.
+- 📈 Delivered sales presentations, closed deals effectively.  
+- 📣 Collaborated with the marketing team to optimize sales strategies.  
+- Skills: Cash Handling · Microsoft Excel · Microsoft Office · Microsoft Word · Microsoft PowerPoint
 
 ### 🏢 **Industry Visitor**  
 **ZUBDHA PVT LTD, New Delhi**  
-**Duration:** Dec 2023  
-- 🔍 Gained insights into industry practices and workflows.  
-- 🌐 Engaged in discussions about industry trends and innovations.
+**Duration:** Dec 2023 (Hybrid)  
+- 🔍 Engaged in industry discussion and ethics training.  
+- 🧠 Analyzed corporate practices and recommended process improvements.  
+- Skills: Corporate Ethics · Team Collaboration
 
 ### 💼 **Sales Executive**  
 **PRIYAKARNI FOREX & TRAVELS PRIVATE LIMITED, New Delhi**  
-**Duration:** Jan 2021 - Mar 2023  
+**Duration:** Jan 2021 - Mar 2023 · 2 yrs 3 mos (Hybrid)  
 - 🔑 Promoted forex services and exceeded sales targets.  
-- 🤝 Nurtured client relationships to boost customer satisfaction and loyalty.
+- 🤝 Nurtured client relationships to boost customer satisfaction and loyalty.  
+- Skills: FX Trading · Foreign Exchange Management · MS Office Suite
 
 ### 🌟 **Member**  
 **Celebrity Face Private Limited, New Delhi**  
-**Duration:** Jan 2018 - Dec 2022  
+**Duration:** Jan 2018 - Dec 2022 · 5 yrs (Hybrid)  
 - 🌟 Worked with influencers and celebrities for social media campaigns.  
-- 🎥 Assisted in organizing virtual events, photoshoots, and promotional activities.
+- 🎥 Organized virtual events, photoshoots, and promotional activities.  
+- Skills: Event Management · Photography · Team Leadership
 
 ---
 
 ## 🧑‍💻 **Internships** 🧑‍💻  
 
-### 🤖 **Data Science Intern**  
-**IBM SkillsBuild Student Ambassador Program, New Delhi**  
-**Duration:** Oct 2024 - Nov 2024  
-- 🛠️ Built machine learning models using scikit-learn, TensorFlow, and Keras.  
-- 🌐 Developed interactive web applications using Django and Flask.  
-- ☁️ Deployed models on cloud platforms like AWS and Azure.  
-🌐 [IBM SkillsBuild](https://www.ibm.com/skillsbuild)
+### 🤖 **Machine Learning Intern**  
+**IBM SkillsBuild Student Ambassador Program**  
+**Duration:** Oct 2024 - Nov 2024 · 2 mos (Hybrid)  
+- 🛠️ Built machine learning models using Python, Jupyter, and Google Colab.  
+- Skills: ML · Python · Jupyter · Google Colab
 
 ### 💻 **Data Science Intern**  
 **Oasis Infobyte, New Delhi**  
-**Duration:** Sep 2024 - Oct 2024  
-- 🧠 Worked on machine learning algorithms and conducted exploratory data analysis (EDA).  
-- 🔮 Developed predictive models and assisted in automating data pipelines.  
-🌐 [Oasis Infobyte](https://intail.ai/directory/c/oasis-infobyte/64ec9a36faef2b56cb7d1bb1)
+**Duration:** Sep 2024 - Oct 2024 · 2 mos (Hybrid)  
+- 🧠 Worked on ML algorithms and EDA.  
+- 🔮 Developed predictive models and automated data pipelines.  
+- Skills: NLP · NumPy · Data Security · AI · Visualization · Databases
+
+### 📊 **Data Analyst Intern**  
+**IBM SkillsBuild Student Ambassador Program**  
+**Duration:** Jun 2024 - Aug 2024 · 3 mos (Hybrid)  
+- 📈 Performed Data Analysis and built ML models.  
+- Skills: Python · Data Science · Jupyter
 
 ### ⚙️ **Development Intern**  
 **IBM SkillsBuild Student Ambassador Program**  
-**Duration:** Jun 2024 - Jul 2024  
-- ⚙️ Focused on AI and Machine Learning model development.  
-- 💡 Collaborated with the team to integrate APIs and develop robust systems.
+**Duration:** Jun 2024 - Jul 2024 · 2 mos  
+- ⚙️ Focused on AI/ML integration and API development.  
+- Skills: API · Machine Learning · AI
 
 ---
 
 ## 🛠️ **Skills & Expertise** 🛠️  
 
 ### 💻 **Programming Languages:**  
-- 🧑‍💻 Python, R, Java, C, C++, SQL, JavaScript, TypeScript, PHP, HTML, CSS, Go, Assembly Language
+- Python, R, Java, C, C++, SQL, JavaScript, TypeScript, PHP, HTML, CSS, Go, Assembly
 
 ### 🌐 **Web Development:**  
-- 🌍 HTML, CSS, JavaScript, Node.js, React.js, Angular, Bootstrap, jQuery, AJAX, JSON, XML
+- HTML, CSS, JavaScript, Node.js, React.js, Angular, Bootstrap, jQuery, AJAX, JSON, XML
 
 ### 📊 **Data Science & Machine Learning:**  
-- 📈 Data Analysis, Data Preprocessing, Feature Engineering, Supervised & Unsupervised Learning  
-- 🔧 Libraries: Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, Matplotlib, Seaborn, Plotly
+- EDA, Feature Engineering, Supervised/Unsupervised Learning  
+- Libraries: Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, Matplotlib, Seaborn, Plotly
 
 ### 🧠 **AI & Deep Learning:**  
-- 🧠 TensorFlow, Keras, PyTorch, Neural Networks  
-- 🤖 Implemented deep learning models for classification, regression, and NLP.
+- TensorFlow, Keras, PyTorch, Neural Networks, NLP
 
 ### 🗃️ **Database Management:**  
-- 📊 MySQL, SQL Server, PostgreSQL, SQLite, MongoDB, PL/SQL
+- MySQL, SQL Server, PostgreSQL, SQLite, MongoDB, PL/SQL
 
 ### 📱 **Mobile App Development:**  
-- 📱 Flutter, Dart, Android Studio
+- Flutter, Dart, Android Studio
 
 ### 🛠️ **Software Engineering & OOP:**  
-- 🔧 Object-Oriented Programming (OOP) Design
+- Object-Oriented Programming Design
 
 ---
 
@@ -131,47 +139,31 @@
 
 ### 🌦️ **Weather App and 5 Day Forecast**  
 **Tech Stack:** Django, OpenWeather API  
-- A weather app that fetches real-time data and displays it based on user input.  
-- 🌗 Features light mode, with dark mode development in progress.
+- Fetches real-time weather and displays a 5-day forecast.
 
 ### 🎤 **Jarvis Desktop Voice Assistant**  
 **Tech Stack:** Python, PyAudio, Tkinter  
-- A voice assistant for automating tasks such as launching apps, searching the web, and playing music.  
-- 🎶 Greets the user and saves notes in text files.
+- Automates tasks with voice commands, greets the user, stores notes.
 
 ### 📝 **AI Resume Analyzer**  
 **Tech Stack:** Python, Streamlit, MySQL, pandas, NLTK, Plotly  
-- Analyzes resumes, extracts keywords, and provides recommendations based on role matching.  
-- 📊 Generates analytics and resume feedback for improvement.
+- Matches resumes to job roles and offers improvement suggestions.
 
 ### 🖼️ **Face Recognition Based Attendance System**  
 **Tech Stack:** Python, Tkinter, OpenCV  
-- Automated attendance system using face recognition.  
-- ⏰ Captures attendance in CSV files and updates in real-time.
+- Captures and updates real-time attendance using facial recognition.
 
-### 🎙️ **Jarvis-Desktop-Voice-Assistant**  
-**Tech Stack:** Python  
-- An interactive voice assistant built using Python, providing automated solutions to common tasks.
-
-### 🏷️ **Face_recognition_based_attendance_system**  
-**Tech Stack:** Python  
-- A face-recognition-based attendance system to automatically mark attendance with ease.
-
-### 💼 **Accounting-Software-using-ASP.NET-Core-Web-Development-Framework**  
+### 💼 **Accounting Software**  
 **Tech Stack:** ASP.NET Core, C#, SQL  
-- Accounting software that allows users to journalize transactions, post journals, prepare trial balances, and adjust accounts.
+- Supports journal entries, trial balances, and financial adjustments.
 
 ### 💡 **AI-Nexus**  
-**Tech Stack:** Jupyter Notebook, Python  
-- AI-powered system for predicting and recommending solutions in various industries.
+**Tech Stack:** Python, Jupyter Notebook  
+- Predicts and recommends solutions across multiple domains using AI.
 
-### 🖊️ **AI-Resume-Analyzer-And-Builder**  
+### 🧑‍💻 **GitHub Terminal Tool**  
 **Tech Stack:** Python  
-- A tool to analyze resumes, generate suggestions for improvement, and build optimized resumes using AI techniques.
-
-### 🧑‍💻 **Github-Terminal**  
-**Tech Stack:** Python  
-- A terminal-based tool to interact with GitHub repositories, clone projects, and execute common Git operations directly from the terminal.
+- Terminal tool to manage and clone GitHub repos efficiently.
 
 ---
 
@@ -184,26 +176,26 @@
 ## 🏆 **Co-Curricular & Extra-Curricular Activities** 🏆  
 
 ### Co-Curricular:  
-🤲 **Donation Drive Volunteer**  
-🌍 **Industry Visitor**  
-📢 **Social Media Campaigns and Talent Promotion**  
-💻 **Member, XINO (Tech Club)**  
-🎭 **Theater Workshops, National School of Drama (NSD)**
+- 🤲 Donation Drive Volunteer  
+- 🌍 Industry Visitor  
+- 📢 Talent Promotion & Social Campaigns  
+- 💻 Member, XINO (Tech Club)  
+- 🎭 NSD Theater Workshops
 
 ### Extra-Curricular:  
-🏏 **Cricket**  
-⚽ **Football**  
-🏸 **Badminton**  
-🎬 **AI Audio-Video Editing**  
-🎞️ **Video Mashups Creation**
+- 🏏 Cricket  
+- ⚽ Football  
+- 🏸 Badminton  
+- 🎬 AI Audio-Video Editing  
+- 🎞️ Video Mashups
 
 ---
 
 ## 🧠 **Personal Interests & Hobbies** 🧠  
-🎧 **AI Audio-Video Editing**  
-💻 **Coding & Algorithms**  
-🎥 **Creating Video Mashups**  
-🏅 **Sports (Cricket, Football, Badminton)**
+🎧 AI Audio-Video Editing  
+💻 Coding & Algorithms  
+🎥 Creating Video Mashups  
+🏅 Playing Sports
 
 ---
 
@@ -214,28 +206,41 @@
 ---
 
 ### **Languages**:  
-🇬🇧 **English**: Fluent  
-🇮🇳 **Hindi**: Fluent  
-🇫🇷 **French**: Basic  
+🇬🇧 English: Fluent  
+🇮🇳 Hindi: Fluent  
+🇫🇷 French: Basic  
 
 ---
 
 ### **Personal Details**:  
-👨‍🦱 **Gender:** Male  
-💍 **Marital Status:** Single
+👨‍🦱 Gender: Male  
+💍 Marital Status: Single
 
 ---
 
-### 🏆 **Badges**  
+## 🏆 **Badges**  
 ![GitHub followers](https://img.shields.io/github/followers/mehuljain133?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/mehuljain133?label=Stars&style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/mehuljain133?label=Forks&style=social)
 
 ### 📊 **Stats**  
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&hide_title=true&count_private=true&theme=radical)  
 ![Mehul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehuljain133&langs_count=8&layout=compact&theme=radical)
 
 ---
 
-# 🚀 Let's Connect and Code!  
-Feel free to reach out to me for collaboration, learning, or exploring tech together! 🤝  
+## 🚀 Let's Connect and Code!  
+Feel free to reach out for collaboration, learning, or exploring tech together! 🤝
+
+---
+
+## ✨ **About Me**
+I'm a postgraduate computer science student at the Vivekananda Institute of Professional Studies (IP University) with a strong passion for data science, machine learning, AI, and deep learning. My academic journey has equipped me with in-depth knowledge of machine learning, and I'm committed to continuous learning and exploration in the exciting field of AI.
+
+In addition to my academic pursuits, I sharpen my critical thinking and problem-solving skills through coding challenges on platforms like LeetCode. I believe that the combination of theoretical knowledge and practical problem-solving is key to success in the ever-evolving world of technology.
+
+I'm enthusiastic about collaborating with like-minded professionals, discussing emerging trends, and contributing to innovative projects. Let's connect and explore opportunities to work together in the fascinating realm of AI and data science.
+
+**Top Skills:**  
+Artificial Intelligence (AI) · Machine Learning · Data Analysis · Python · R
+
