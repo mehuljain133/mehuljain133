@@ -12,8 +12,8 @@
 ## 🏆 **GitHub Badges**  
 ![GitHub Followers](https://img.shields.io/github/followers/mehuljain133?label=Follow&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/mehuljain133?label=Stars&style=social)  
-![Profiel Views](<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuljain133&label=Profile%20views&color=0e75b6&style=flat" alt="mehuljain133" /> </p>
-)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuljain133&label=Profile%20views&color=0e75b6&style=flat" alt="mehuljain133" /> </p>
+
 
 ---
 
