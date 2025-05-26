@@ -111,43 +111,71 @@
 
 ## 🧰 Essential Git Commands  
 '''bash
-
-# Initialize repo
+# Initialize a new Git repository
 git init
 
-# Clone repo
+# Clone an existing repository
 git clone <url>
 
-# Stage changes
+# Check status of working directory
+git status
+
+# Stage changes for commit
 git add <file>
 
-# Commit changes
+# Commit staged changes with a message
 git commit -m "message"
 
-# Push to remote
+# Push commits to a remote repository branch
 git push origin <branch>
 
-# Pull from remote
+# Pull latest changes from remote branch
 git pull origin <branch>
 
-# Create branch
+# Create and switch to a new branch
 git checkout -b <branch>
 
-# Switch branch
+# Switch to an existing branch
 git checkout <branch>
 
-# Merge branch
+# Merge a branch into current branch
 git merge <branch>
 
-# View commit log
+# View commit history
 git log
 
-# Stash changes
+# View compact one-line log
+git log --oneline
+
+# Stash changes temporarily
 git stash
 
-# Apply stash
+# Apply the latest stashed changes
 git stash apply
 
+# Show list of all branches
+git branch
+
+# Delete a branch
+git branch -d <branch>
+
+# Rename current branch
+git branch -m <new-branch-name>
+
+# Show differences between files or commits
+git diff
+
+# Show staged changes
+git diff --staged
+
+# Reset changes in working directory (unstage files)
+git reset <file>
+
+# Undo last commit but keep changes staged
+git reset --soft HEAD~1
+
+# Undo last commit and discard changes
+git reset --hard HEAD~1
 '''
 
 ---
