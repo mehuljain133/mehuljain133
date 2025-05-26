@@ -110,7 +110,7 @@
 ---
 
 ## 🧰 Essential Git Commands  
-'''bash
+```bash
 # Initialize a new Git repository
 git init
 
@@ -176,7 +176,6 @@ git reset --soft HEAD~1
 
 # Undo last commit and discard changes
 git reset --hard HEAD~1
-'''
 
 ---
 
