@@ -110,6 +110,7 @@
 ---
 
 ## 🧰 Essential Git Commands  
+'''bash
 
 # Initialize repo
 git init
@@ -146,6 +147,8 @@ git stash
 
 # Apply stash
 git stash apply
+
+'''
 
 ---
 
