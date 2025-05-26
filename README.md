@@ -177,6 +177,7 @@ git reset --soft HEAD~1
 # Undo last commit and discard changes
 git reset --hard HEAD~1
 '''
+
 ---
 
 ## ✨ **About Me**
