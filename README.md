@@ -9,50 +9,172 @@
 
 ---
 
-## 🏆 **GitHub Badges**  
-![GitHub Followers](https://img.shields.io/github/followers/mehuljain133?label=Follow&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/mehuljain133?label=Stars&style=social)  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehuljain133&label=Profile%20views&color=0e75b6&style=flat" alt="mehuljain133" /> </p>
+---
 
+## 👥 Followers, Stars & Profile Views Across Git Platforms
+
+### GitHub  
+![GitHub Followers](https://img.shields.io/github/followers/mehuljain133?label=GitHub%20Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/mehuljain133?label=GitHub%20Stars&style=social)  
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=mehuljain133&label=GitHub%20Profile%20Views&color=0e75b6&style=flat)  
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/mehuljain133?label=GitHub%20Sponsors&style=social)](https://github.com/sponsors/mehuljain133)  
+
+### GitLab  
+[![GitLab Followers](https://img.shields.io/badge/GitLab-Followers-FA6E00?logo=gitlab&style=social)](https://gitlab.com/mehuljain133)  
+[![GitLab Stars](https://img.shields.io/gitlab/stars/mehuljain133?label=Stars&style=social)](https://gitlab.com/mehuljain133)  
+
+### Bitbucket  
+[![Bitbucket Followers](https://img.shields.io/bitbucket/followers/mehuljain133?label=Followers&style=social)](https://bitbucket.org/mehuljain133/)  
+
+### Gitea  
+[![Gitea Followers](https://img.shields.io/badge/Gitea-Followers-FFA500?logo=gitea&style=social)](https://gitea.com/mehuljain133)  
+
+### SourceForge  
+[![SourceForge Projects](https://sourceforge.net/users/mehuljain133/sflogo.svg)](https://sourceforge.net/users/mehuljain133/)  
+
+### Phabricator  
+[![Phabricator User](https://img.shields.io/badge/Phabricator-User-7F8C8D?logo=phabricator&logoColor=white)](https://phabricator.example.com/u/mehuljain133)  
+
+### AWS CodeCommit  
+![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-Active-orange?logo=amazon-aws)  
+
+### Azure DevOps  
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Active-blue?logo=microsoftazure)  
+
+### Google Cloud Source Repositories  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Source%20Repos-blue?logo=googlecloud)  
+
+### AWS Amplify  
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-Active-orange?logo=amazon-aws)  
+
+### Other Git Hosting Platforms  
+![Codeberg](https://img.shields.io/badge/Codeberg-Active-blue?logo=codeberg)  
+![Launchpad](https://img.shields.io/badge/Launchpad-Active-green?logo=launchpad)  
+![Assembla](https://img.shields.io/badge/Assembla-Active-purple?logo=assembla)  
+![Beanstalk](https://img.shields.io/badge/Beanstalk-Active-orange?logo=beanstalk)  
+![Gogs](https://img.shields.io/badge/Gogs-Active-yellow?logo=gogs)  
+![Phabricator](https://img.shields.io/badge/Phabricator-Active-blue?logo=phabricator)  
 
 ---
 
-## 📊 **GitHub Stats & Metrics**  
-### **GitHub Profile Stats**  
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&count_private=true&theme=radical)
+## 📊 GitHub Stats & Metrics  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&count_private=true&theme=radical)  
 
 ---
 
-## 🎓 **GitHub Achievements**  
-### **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehuljain133&theme=radical&no-frame=true&column=7)
+## 🎖️ GitHub Achievements & Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehuljain133&theme=radical&no-frame=true&column=7)  
 
 ---
 
-## 🛠️ **Tools & Technologies Used**  
-![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git)  
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)  
+## 📈 Contribution Graph  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehuljain133&theme=radical&hide_border=true)  
+
+---
+
+## 🛠️ Git Clients & Editors (CLI & GUI)
+
+![Git CLI](https://img.shields.io/badge/Git-CLI-orange?logo=git)  
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-Available-181717?logo=github)  
+![GitKraken](https://img.shields.io/badge/GitKraken-Available-179289?logo=gitkraken)  
+![SourceTree](https://img.shields.io/badge/SourceTree-Available-0052CC?logo=sourcetree)  
+![Tower](https://img.shields.io/badge/Tower-Available-2699FB?logo=tower)  
+![SmartGit](https://img.shields.io/badge/SmartGit-Available-7B7B7B?logo=smartgit)  
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)  
+![JetBrains](https://img.shields.io/badge/JetBrains-Available-000000?logo=jetbrains)  
+![Eclipse](https://img.shields.io/badge/Eclipse-Available-2C2255?logo=eclipse)  
+![Atom](https://img.shields.io/badge/Atom-Available-66595C?logo=atom)  
+![Vim](https://img.shields.io/badge/Vim-Available-019733?logo=vim)  
+![Emacs](https://img.shields.io/badge/Emacs-Available-5F7D7E?logo=gnu-emacs)  
+
+---
+
+## 🔄 CI/CD & Automation
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github-pages&logoColor=white)  
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-008C69?logo=github&logoColor=white)  
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?logo=gitlab&logoColor=white)  
+![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=white)  
+![CircleCI](https://img.shields.io/badge/CircleCI-222222?logo=circleci&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?logo=microsoftazurepipelines&logoColor=white)  
+![Buildkite](https://img.shields.io/badge/Buildkite-00ADEF?logo=buildkite&logoColor=white)  
+![Drone](https://img.shields.io/badge/Drone-00C6FF?logo=drone&logoColor=white)  
+![Semaphore](https://img.shields.io/badge/Semaphore-FF5722?logo=semaphoreci&logoColor=white)  
+![TeamCity](https://img.shields.io/badge/TeamCity-007ACC?logo=teamcity&logoColor=white)  
+![Buddy](https://img.shields.io/badge/Buddy-FEA100?logo=buddy&logoColor=white)  
+![Wercker](https://img.shields.io/badge/Wercker-00B9F1?logo=wercker&logoColor=white)  
 
 ---
 
-## 🚀 **GitHub Projects & Open Source Contributions**  
-- [Open Source Contributions](https://github.com/mehuljain133?tab=repositories)  
-- [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/)  
+## 🔒 Security, Code Quality & Bot Helpers
+
+![Dependabot](https://img.shields.io/badge/Dependabot-007EC6?logo=dependabot&logoColor=white)  
+![Renovate](https://img.shields.io/badge/Renovate-000000?logo=renovatebot&logoColor=white)  
+![Snyk](https://img.shields.io/badge/Snyk-3A92FF?logo=snyk&logoColor=white)  
+![CodeQL](https://img.shields.io/badge/CodeQL-0052CC?logo=github&logoColor=white)  
+![SonarCloud](https://img.shields.io/badge/SonarCloud-3FAE3B?logo=sonarcloud&logoColor=white)  
+![Codecov](https://img.shields.io/badge/Codecov-FF4081?logo=codecov&logoColor=white)  
+![LGTM](https://img.shields.io/badge/LGTM-339933?logo=lgtm&logoColor=white)  
+![WhiteSource](https://img.shields.io/badge/WhiteSource-0066FF?logo=whitesource&logoColor=white)  
+![Hound](https://img.shields.io/badge/Hound-FF0000?logo=houndci&logoColor=white)  
+![CodeFactor](https://img.shields.io/badge/CodeFactor-1B70E4?logo=codefactor&logoColor=white)  
+![Coveralls](https://img.shields.io/badge/Coveralls-26A65B?logo=coveralls&logoColor=white)  
 
 ---
 
-## 💼 **GitHub Sponsors & Open Source**  
+## 📝 Snippet Managers & Pastebins  
+
+![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-181717?logo=github)  
+![GitLab Snippets](https://img.shields.io/badge/GitLab%20Snippets-FCA121?logo=gitlab)  
+![Pastebin](https://img.shields.io/badge/Pastebin-2F72BC?logo=pastebin)  
+![Hastebin](https://img.shields.io/badge/Hastebin-8C8C8C?logo=hastebin)  
+![GistBox](https://img.shields.io/badge/GistBox-FF3E00?logo=gistbox&logoColor=white)  
+![PrivateBin](https://img.shields.io/badge/PrivateBin-8B0000?logo=privatebin&logoColor=white)  
+
+---
+
+## 💸 Sponsors, Funding & Marketplaces  
+
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-7289DA?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/mehuljain133)  
+[![Open Collective](https://img.shields.io/badge/Open%20Collective-DD3E4B?logo=open-collective&logoColor=white)](https://opencollective.com/)  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)  
+[![Patreon](https://img.shields.io/badge/Patreon-E6461A?logo=patreon&logoColor=white)](https://patreon.com/)  
 [![GitHub Marketplace](https://img.shields.io/badge/GitHub%20Marketplace-2E3A4B?logo=github&logoColor=white)](https://github.com/marketplace)  
+[![Liberapay](https://img.shields.io/badge/Liberapay-009E3D?logo=liberapay&logoColor=white)](https://liberapay.com/)  
 
 ---
 
-## 📈 **GitHub Contribution Graph**  
-![Mehul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehuljain133&theme=radical&hide_border=true)
+## 📚 Learning & Documentation Links  
+
+- [Official Git Documentation](https://git-scm.com/doc)  
+- [GitHub Learning Lab](https://lab.github.com/)  
+- [GitLab Docs](https://docs.gitlab.com/)  
+- [Bitbucket Tutorials](https://bitbucket.org/product/guides)  
+- [Awesome GitHub](https://github.com/sindresorhus/awesome-github)  
+- [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)  
+- [Pro Git Book (free)](https://git-scm.com/book/en/v2)  
+
+---
+
+## 🔥 Popular Git Workflows & Best Practices
+
+- Branching Models (Git Flow, GitHub Flow, GitLab Flow, Trunk-based development)  
+- Commit message conventions (Conventional Commits, Semantic Release)  
+- Pull Request / Merge Request templates & reviews  
+- Use GPG signing for commits & tags  
+- Automate testing & deployments with CI/CD  
+- Enforce branch protection and code owners  
+- Use issue and PR templates  
+- Continuous Integration and Continuous Deployment pipelines  
+- Leverage bots for dependency updates and code scanning  
+
+---
+
+## 🚀 Open Source Contributions & Projects  
+- [GitHub Repositories](https://github.com/mehuljain133?tab=repositories)  
+- [GitLab Projects](https://gitlab.com/mehuljain133/projects)  
+- [Bitbucket Repositories](https://bitbucket.org/mehuljain133/)  
+- Participated in [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/)  
 
 ---
 
