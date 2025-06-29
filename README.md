@@ -2,7 +2,7 @@
 [🔗 **LinkedIn**](https://www.linkedin.com/in/mehuljain923/) | [🐙 **GitHub**](https://github.com/mehuljain133)
 
 ## 📍 **Location**  
-🏙️ **New Delhi, Delhi, India - 110052**  
+🏙️ **New Delhi, Delhi**  
 
 ## 📧 **Contact**  
 📩 **Email:** [mca_70817704423_mehul@vipstc.edu.in](mailto:mca_70817704423_mehul@vipstc.edu.in)
