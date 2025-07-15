@@ -1,400 +1,404 @@
-# 👨‍💻 **Mehul Jain** 💻🎓  
-[🔗 **LinkedIn**](https://www.linkedin.com/in/mehuljain923/) | [🐙 **GitHub**](https://github.com/mehuljain133)
+<h1 align="center">Hi 👋, I'm Mehul Jain</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DS+%7C+Python+Enthusiast;Full-stack+Learner+%26+Doer;Open+Source+Contributor;Let's+Connect+and+Build+Together!" alt="Typing SVG" />
+</p>
 
-## 📍 **Location**  
-🏙️ **New Delhi, India**  
+<p align="center">
+  <a href="https://github.com/mehuljain133">
+    <img src="https://komarev.com/ghpvc/?username=mehuljain133&label=Profile%20views&color=0e75b6&style=flat" alt="mehuljain133" />
+  </a>
+  <a href="mailto:mca_70817704423_mehul@vipstc.edu.in">
+    <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehuljain923/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mehuljain133">
+    <img src="https://img.shields.io/github/followers/mehuljain133?label=GitHub%20Followers&style=social" />
+  </a>
+</p>
 
-## 📧 **Contact**  
-📩 **Email:** [mca_70817704423_mehul@vipstc.edu.in](mailto:mca_70817704423_mehul@vipstc.edu.in)
 
----
+## ✨ About Me
 
-## 👥 Followers, Stars & Profile Views
+<div align="center">
 
-### GitHub  
-![GitHub Followers](https://img.shields.io/github/followers/mehuljain133?label=GitHub%20Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/mehuljain133?label=GitHub%20Stars&style=social)  
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=mehuljain133&label=GitHub%20Profile%20Views&color=0e75b6&style=flat)  
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/mehuljain133?label=GitHub%20Sponsors&style=social)](https://github.com/sponsors/mehuljain133)  
+🎓 <strong>MCA Postgraduate Student</strong> at <a href="https://www.vips.edu/" target="_blank"><strong>VIPS (IP University)</strong></a>  
+🧠 <strong>AI | ML | Data Science | Deep Learning</strong>  
+💡 Passionate about turning ideas into intelligent systems  
+📍 Based in <strong>New Delhi, India</strong>
 
-### GitLab  
-[![GitLab Followers](https://img.shields.io/badge/GitLab-Followers-FA6E00?logo=gitlab&style=social)](https://gitlab.com/mehuljain133)  
-[![GitLab Stars](https://img.shields.io/gitlab/stars/mehuljain133?label=Stars&style=social)](https://gitlab.com/mehuljain133)  
-
-### Bitbucket  
-[![Bitbucket Followers](https://img.shields.io/bitbucket/followers/mehuljain133?label=Followers&style=social)](https://bitbucket.org/mehuljain133/)  
-
-### Gitea  
-[![Gitea Followers](https://img.shields.io/badge/Gitea-Followers-FFA500?logo=gitea&style=social)](https://gitea.com/mehuljain133)  
-
----
-
-## 📊 Stats & Achievements
-
-### GitHub Profile Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehuljain133&show_icons=true&count_private=true&theme=radical)  
-
-### GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehuljain133&theme=radical&no-frame=true&column=7)  
-
-### Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehuljain133&theme=radical&hide_border=true)  
+</div>
 
 ---
 
-## 🛠️ Tools & Editors
+<div align="center">
 
-![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git)  
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)  
-![GitLab](https://img.shields.io/badge/Platform-GitLab-FA6E00?logo=gitlab&logoColor=white)  
-![Bitbucket](https://img.shields.io/badge/Platform-Bitbucket-0052CC?logo=bitbucket&logoColor=white)  
-![Gitea](https://img.shields.io/badge/Platform-Gitea-FFA500?logo=gitea&logoColor=white)  
+📈 <strong>Constantly Learning</strong> | 🧩 <strong>Problem Solver</strong> | 🧪 <strong>Experimenter</strong>  
+💻 Practicing algorithms on <a href="https://leetcode.com/" target="_blank"><strong>LeetCode</strong></a>  
+🤝 Open to <strong>collaboration, discussions, and innovation</strong>
 
-![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)  
-![JetBrains](https://img.shields.io/badge/Editor-JetBrains-000000?logo=jetbrains)  
-![Atom](https://img.shields.io/badge/Editor-Atom-66595C?logo=atom)  
-![Vim](https://img.shields.io/badge/Editor-Vim-019733?logo=vim)  
-![Emacs](https://img.shields.io/badge/Editor-Emacs-5F7D7E?logo=gnu-emacs)  
+</div>
 
 ---
 
-## 🔄 CI/CD & Automation
+<div align="center">
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?logo=gitlab&logoColor=white)  
-![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=white)  
-![CircleCI](https://img.shields.io/badge/CircleCI-222222?logo=circleci&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?logo=microsoftazurepipelines&logoColor=white)  
-![Buildkite](https://img.shields.io/badge/Buildkite-00ADEF?logo=buildkite&logoColor=white)  
-![Drone](https://img.shields.io/badge/Drone-00C6FF?logo=drone&logoColor=white)  
+> <i>"Combining theory with real-world execution is the secret sauce of success in tech."</i>  
+> <b>– Mehul Jain</b>
+
+</div>
 
 ---
 
-## 🔒 Security & Code Quality Tools
-
-![Dependabot](https://img.shields.io/badge/Dependabot-007EC6?logo=dependabot&logoColor=white)  
-![Renovate](https://img.shields.io/badge/Renovate-000000?logo=renovatebot&logoColor=white)  
-![Snyk](https://img.shields.io/badge/Snyk-3A92FF?logo=snyk&logoColor=white)  
-![CodeQL](https://img.shields.io/badge/CodeQL-0052CC?logo=github&logoColor=white)  
-![SonarCloud](https://img.shields.io/badge/SonarCloud-3FAE3B?logo=sonarcloud&logoColor=white)  
-![Codecov](https://img.shields.io/badge/Codecov-FF4081?logo=codecov&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23007ACC.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-%23232F3E.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%2300A4EF.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
 ---
 
-## 📝 Snippet Managers & Pastebins  
+## 🏆 Co-Curricular & Extra-Curricular Activities
 
-![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-181717?logo=github)  
-![GitLab Snippets](https://img.shields.io/badge/GitLab%20Snippets-FCA121?logo=gitlab)  
-![Pastebin](https://img.shields.io/badge/Pastebin-2F72BC?logo=pastebin)  
+<div align="center">
 
----
-
-## 💸 Sponsors & Funding  
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/mehuljain133?label=GitHub%20Sponsors&style=social)](https://github.com/sponsors/mehuljain133)  
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-DD3E4B?logo=open-collective&logoColor=white)](https://opencollective.com/)  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)  
-[![Patreon](https://img.shields.io/badge/Patreon-E6461A?logo=patreon&logoColor=white)](https://patreon.com/)  
+### 🎓 Co-Curricular  
+🤲 <strong>Donation Drive Volunteer</strong> · 🌍 <strong>Industry Visitor</strong>  
+📢 <strong>Talent Promotion & Social Campaigns</strong>  
+💻 <strong>Member, XINO (Tech Club)</strong>  
+🎭 <strong>NSD Theater Workshops</strong>
 
 ---
 
-## 📚 Useful Links
+### 🕺 Extra-Curricular  
+🏏 <strong>Cricket</strong> · ⚽ <strong>Football</strong> · 🏸 <strong>Badminton</strong>  
+🎬 <strong>AI Audio-Video Editing</strong> · 🎞️ <strong>Video Mashups</strong>
 
-- [Git Official Docs](https://git-scm.com/doc)  
-- [GitHub Learning Lab](https://lab.github.com/)  
-- [GitLab Documentation](https://docs.gitlab.com/)  
-- [Bitbucket Guides](https://bitbucket.org/product/guides)  
-- [Pro Git Book](https://git-scm.com/book/en/v2)  
+</div>
 
 ---
 
-## 🧰 Essential Git Commands  
-```bash
-# Initialize a new Git repository
-git init
+## 🧠 Personal Interests & Hobbies
 
-# Clone an existing repository
-git clone <url>
+<div align="center">
 
-# Check status of working directory
-git status
+🎧 <strong>AI Audio-Video Editing</strong> · 💻 <strong>Coding & Algorithms</strong>  
+🎥 <strong>Creating Video Mashups</strong> · 🏅 <strong>Playing Sports</strong>
 
-# Stage changes for commit
-git add <file>
-
-# Commit staged changes with a message
-git commit -m "message"
-
-# Push commits to a remote repository branch
-git push origin <branch>
-
-# Pull latest changes from remote branch
-git pull origin <branch>
-
-# Create and switch to a new branch
-git checkout -b <branch>
-
-# Switch to an existing branch
-git checkout <branch>
-
-# Merge a branch into current branch
-git merge <branch>
-
-# View commit history
-git log
-
-# View compact one-line log
-git log --oneline
-
-# Stash changes temporarily
-git stash
-
-# Apply the latest stashed changes
-git stash apply
-
-# Show list of all branches
-git branch
-
-# Delete a branch
-git branch -d <branch>
-
-# Rename current branch
-git branch -m <new-branch-name>
-
-# Show differences between files or commits
-git diff
-
-# Show staged changes
-git diff --staged
-
-# Reset changes in working directory (unstage files)
-git reset <file>
-
-# Undo last commit but keep changes staged
-git reset --soft HEAD~1
-
-# Undo last commit and discard changes
-git reset --hard HEAD~1
-```
+</div>
 
 ---
 
-## ✨ **About Me**
-I'm a postgraduate computer science student at the Vivekananda Institute of Professional Studies (IP University) with a strong passion for data science, machine learning, AI, and deep learning. My academic journey has equipped me with in-depth knowledge of machine learning, and I'm committed to continuous learning and exploration in the exciting field of AI.
+## 🌐 Languages
 
-In addition to my academic pursuits, I sharpen my critical thinking and problem-solving skills through coding challenges on platforms like LeetCode. I believe that the combination of theoretical knowledge and practical problem-solving is key to success in the ever-evolving world of technology.
+<div align="center">
 
-I'm enthusiastic about collaborating with like-minded professionals, discussing emerging trends, and contributing to innovative projects. Let's connect and explore opportunities to work together in the fascinating realm of AI and data science.
+🇬🇧 <strong>English</strong>: Fluent  
+🇮🇳 <strong>Hindi</strong>: Fluent  
+🇫🇷 <strong>French</strong>: Basic  
 
----
-
-## 🏆 **Co-Curricular & Extra-Curricular Activities** 🏆  
-
-### Co-Curricular:  
-- 🤲 Donation Drive Volunteer  
-- 🌍 Industry Visitor  
-- 📢 Talent Promotion & Social Campaigns  
-- 💻 Member, XINO (Tech Club)  
-- 🎭 NSD Theater Workshops
-
-### Extra-Curricular:  
-- 🏏 Cricket  
-- ⚽ Football  
-- 🏸 Badminton  
-- 🎬 AI Audio-Video Editing  
-- 🎞️ Video Mashups
+</div>
 
 ---
 
-## 🧠 **Personal Interests & Hobbies** 🧠  
-🎧 AI Audio-Video Editing  
-💻 Coding & Algorithms  
-🎥 Creating Video Mashups  
-🏅 Playing Sports
+## 📋 Personal Details
 
-### **Languages**:  
-🇬🇧 English: Fluent  
-🇮🇳 Hindi: Fluent  
-🇫🇷 French: Basic  
+<div align="center">
+
+👨‍🦱 <strong>Gender</strong>: Male  
+💍 <strong>Marital Status</strong>: Single
+
+</div>
 
 ---
 
-### **Personal Details**:  
-👨‍🦱 Gender: Male  
-💍 Marital Status: Single
+## 🚀 Top Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23007ACC.svg?&style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-%23323330.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
 ---
 
-**Top Skills:**  
-Artificial Intelligence (AI) · Machine Learning · Data Analysis · Python · R
+## 🎓 Education
+
+<div align="center">
+
+### 📘 M.C.A. – Computer Applications  
+<b>Vivekananda Institute of Professional Studies</b>, <i>IP University</i>  
+🗓️ <b>2023 – 2025</b>  
+🌐 <a href="https://www.vips.edu/">vips.edu</a>  
 
 ---
 
-## 🎓 **Education** 🎓  
-
-### 📘 M.C.A. - Computer Applications  
-**Vivekananda Institute of Professional Studies (IP University)**  
-**Duration:** 2023 - 2025  
-🌐 [Vivekananda Institute](https://www.vips.edu/)
-
-### 📗 B.Sc. in Computer Science (Hons)  
-**Sri Guru Tegh Bahadur Khalsa College, University of Delhi**  
-**Duration:** 2020 - 2023  
-🌐 [Sri Guru Tegh Bahadur Khalsa College](https://www.sgtbkhalsadu.ac.in/)
-
-### 📚 12th Grade - CBSE  
-**Delhi Public School Rohini, New Delhi**  
-🖼️ [DPS Rohini](https://www.dpsrohini.com/)
-
-### 📖 10th Grade - CBSE  
-**Delhi Public School Rohini, New Delhi**  
+### 📗 B.Sc. (Hons) Computer Science  
+<b>Sri Guru Tegh Bahadur Khalsa College</b>, <i>University of Delhi</i>  
+🗓️ <b>2020 – 2023</b>  
+🌐 <a href="https://www.sgtbkhalsadu.ac.in/">sgtbkhalsadu.ac.in</a>
 
 ---
 
-## 💼 **Professional Experience** 💼  
-
-### 📅 **Placement Coordinator**  
-**Vivekananda Institute of Professional Studies, New Delhi**  
-**Duration:** Feb 2024 - Apr 2025 · 1 yr 3 mos (Hybrid)  
-- 🤝 Coordinating campus recruitment activities and facilitating pre-placement training sessions.  
-- 📈 Managing relationships with companies and aligning student profiles with industry needs.  
-- 🌍 Organizing on-campus and virtual recruitment drives.  
-- Skills: Management · Organizational Leadership · Design Placement Paper · Team Building · Papermaking · Leadership Development · Microsoft Excel · Team Leadership · Educational Leadership
-
-### 💼 **Sales Executive**  
-**PRIYAKARNI TRADE & LEADS PRIVATE LIMITED, New Delhi**  
-**Duration:** Apr 2023 - Jan 2025 · 1 yr 10 mos (Hybrid)  
-- 📊 Conducted market research and developed client relationships to promote forex and travel-related services.  
-- 📈 Delivered sales presentations, closed deals effectively.  
-- 📣 Collaborated with the marketing team to optimize sales strategies.  
-- Skills: Cash Handling · Microsoft Excel · Microsoft Office · Microsoft Word · Microsoft PowerPoint
-
-### 🏢 **Industry Visitor**  
-**ZUBDHA PVT LTD, New Delhi**  
-**Duration:** Dec 2023 (Hybrid)  
-- 🔍 Engaged in industry discussion and ethics training.  
-- 🧠 Analyzed corporate practices and recommended process improvements.  
-- Skills: Corporate Ethics · Team Collaboration
-
-### 💼 **Sales Executive**  
-**PRIYAKARNI FOREX & TRAVELS PRIVATE LIMITED, New Delhi**  
-**Duration:** Jan 2021 - Mar 2023 · 2 yrs 3 mos (Hybrid)  
-- 🔑 Promoted forex services and exceeded sales targets.  
-- 🤝 Nurtured client relationships to boost customer satisfaction and loyalty.  
-- Skills: FX Trading · Foreign Exchange Management · MS Office Suite
-
-### 🌟 **Member**  
-**Celebrity Face Private Limited, New Delhi**  
-**Duration:** Jan 2018 - Dec 2022 · 5 yrs (Hybrid)  
-- 🌟 Worked with influencers and celebrities for social media campaigns.  
-- 🎥 Organized virtual events, photoshoots, and promotional activities.  
-- Skills: Event Management · Photography · Team Leadership
+### 📚 12th Grade – CBSE  
+<b>Delhi Public School, Rohini</b>  
+🗓️ <b>Completed in 2020</b>  
+🖼️ <a href="https://www.dpsrohini.com/">dpsrohini.com</a>
 
 ---
 
-## 🧑‍💻 **Internships** 🧑‍💻  
+### 📖 10th Grade – CBSE  
+<b>Delhi Public School, Rohini</b>  
+🗓️ <b>Completed in 2018</b>  
 
-### 🤖 **Machine Learning Intern**  
-**IBM SkillsBuild Student Ambassador Program**  
-**Duration:** Oct 2024 - Nov 2024 · 2 mos (Hybrid)  
-- 🛠️ Built machine learning models using Python, Jupyter, and Google Colab.  
-- Skills: ML · Python · Jupyter · Google Colab
-
-### 💻 **Data Science Intern**  
-**Oasis Infobyte, New Delhi**  
-**Duration:** Sep 2024 - Oct 2024 · 2 mos (Hybrid)  
-- 🧠 Worked on ML algorithms and EDA.  
-- 🔮 Developed predictive models and automated data pipelines.  
-- Skills: NLP · NumPy · Data Security · AI · Visualization · Databases
-
-### 📊 **Data Analyst Intern**  
-**IBM SkillsBuild Student Ambassador Program**  
-**Duration:** Jun 2024 - Aug 2024 · 3 mos (Hybrid)  
-- 📈 Performed Data Analysis and built ML models.  
-- Skills: Python · Data Science · Jupyter
-
-### ⚙️ **Development Intern**  
-**IBM SkillsBuild Student Ambassador Program**  
-**Duration:** Jun 2024 - Jul 2024 · 2 mos  
-- ⚙️ Focused on AI/ML integration and API development.  
-- Skills: API · Machine Learning · AI
+</div>
 
 ---
 
-## 🛠️ **Skills & Expertise** 🛠️  
+## 💼 Professional Experience
 
-### 💻 **Programming Languages:**  
-- Python, R, Java, C, C++, SQL, JavaScript, TypeScript, PHP, HTML, CSS, Go, Assembly
+<div align="center">
 
-### 🌐 **Web Development:**  
-- HTML, CSS, JavaScript, Node.js, React.js, Angular, Bootstrap, jQuery, AJAX, JSON, XML
-
-### 📊 **Data Science & Machine Learning:**  
-- EDA, Feature Engineering, Supervised/Unsupervised Learning  
-- Libraries: Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, Matplotlib, Seaborn, Plotly
-
-### 🧠 **AI & Deep Learning:**  
-- TensorFlow, Keras, PyTorch, Neural Networks, NLP
-
-### 🗃️ **Database Management:**  
-- MySQL, SQL Server, PostgreSQL, SQLite, MongoDB, PL/SQL
-
-### 📱 **Mobile App Development:**  
-- Flutter, Dart, Android Studio
-
-### 🛠️ **Software Engineering & OOP:**  
-- Object-Oriented Programming Design
+### 📅 Placement Coordinator  
+<b>Vivekananda Institute of Professional Studies, New Delhi</b>  
+🗓️ <i>Feb 2024 – Apr 2025 · 1 yr 3 mos (Hybrid)</i>  
+🤝 Coordinated campus drives & pre-placement training  
+📈 Built relationships with companies & aligned student profiles  
+🌍 Organized virtual + on-campus recruitment  
+💡 <b>Skills:</b> Management · Leadership · Excel · Team Building · Educational Strategy
 
 ---
 
-## 🏆 **Achievements** 🏆  
-🏅 **Certificate of Appreciation – Ministry of Culture**  
-🎯 **Key Accomplishments**:  
-🚀 Developed AI-powered tools, automated desktop assistants, and contributed significantly to the fields of Machine Learning and Data Science.
+### 💼 Sales Executive  
+<b>PRIYAKARNI TRADE & LEADS PVT LTD, New Delhi</b>  
+🗓️ <i>Apr 2023 – Jan 2025 · 1 yr 10 mos (Hybrid)</i>  
+📊 Market research & client outreach for forex/travel services  
+📈 Closed deals and drove product adoption  
+📣 Collaborated with marketing to refine pitch strategies  
+💡 <b>Skills:</b> Sales · MS Office · Presentations · CRM · Excel
 
 ---
 
-## 🖥️ **Projects** 🖥️  
-
-### 🌦️ **Weather App and 5 Day Forecast**  
-**Tech Stack:** Django, OpenWeather API  
-- Fetches real-time weather and displays a 5-day forecast.
-
-### 🎤 **Jarvis Desktop Voice Assistant**  
-**Tech Stack:** Python, PyAudio, Tkinter  
-- Automates tasks with voice commands, greets the user, stores notes.
-
-### 📝 **AI Resume Analyzer**  
-**Tech Stack:** Python, Streamlit, MySQL, pandas, NLTK, Plotly  
-- Matches resumes to job roles and offers improvement suggestions.
-
-### 🖼️ **Face Recognition Based Attendance System**  
-**Tech Stack:** Python, Tkinter, OpenCV  
-- Captures and updates real-time attendance using facial recognition.
-
-### 💼 **Accounting Software**  
-**Tech Stack:** ASP.NET Core, C#, SQL  
-- Supports journal entries, trial balances, and financial adjustments.
-
-### 💡 **AI-Nexus**  
-**Tech Stack:** Python, Jupyter Notebook  
-- Predicts and recommends solutions across multiple domains using AI.
-
-### 🧑‍💻 **GitHub Terminal Tool**  
-**Tech Stack:** Python  
-- Terminal tool to manage and clone GitHub repos efficiently.
+### 🏢 Industry Visitor  
+<b>ZUBDHA PVT LTD, New Delhi</b>  
+🗓️ <i>Dec 2023 (Hybrid)</i>  
+🔍 Attended ethics workshops & industry insight sessions  
+🧠 Proposed corporate process improvements  
+💡 <b>Skills:</b> Corporate Ethics · Strategic Analysis · Collaboration
 
 ---
 
-## 📚 **Publications** 📚  
+### 💼 Sales Executive  
+<b>PRIYAKARNI FOREX & TRAVELS PVT LTD, New Delhi</b>  
+🗓️ <i>Jan 2021 – Mar 2023 · 2 yrs 3 mos (Hybrid)</i>  
+🔑 Promoted forex services & exceeded KPIs  
+🤝 Strengthened customer retention through service quality  
+💡 <b>Skills:</b> FX Trading · Customer Service · MS Office Suite
 
-📝 **"SMART ATTENDANCE SYSTEM WITH FACE RECOGNITION USING OPENCV"**
+---
+
+### 🌟 Member  
+<b>Celebrity Face Private Limited, New Delhi</b>  
+🗓️ <i>Jan 2018 – Dec 2022 · 5 yrs (Hybrid)</i>  
+🌟 Worked on influencer campaigns & event management  
+🎥 Managed virtual shoots, promos, and talent interactions  
+💡 <b>Skills:</b> Photography · Team Leadership · Event Planning
+
+</div>
 
 ---
 
-## 🚀 Let's Connect and Code!  
-Feel free to reach out for collaboration, learning, or exploring tech together! 🤝
+## 🧑‍💻 Internships
+
+<div align="center">
+
+### 🤖 Machine Learning Intern  
+<b>IBM SkillsBuild Student Ambassador Program</b>  
+🗓️ <i>Oct 2024 – Nov 2024 · 2 mos (Hybrid)</i>  
+🛠️ Built ML models using Python, Jupyter & Google Colab  
+💡 <b>Skills:</b> Python · ML · Google Colab · Jupyter
 
 ---
-© 2025 mehuljain133 
+
+### 💻 Data Science Intern  
+<b>Oasis Infobyte, New Delhi</b>  
+🗓️ <i>Sep 2024 – Oct 2024 · 2 mos (Hybrid)</i>  
+🧠 Implemented ML algorithms and EDA pipelines  
+🔮 Built predictive models and automated insights  
+💡 <b>Skills:</b> NLP · NumPy · AI · Data Security · Visualization
+
+---
+
+### 📊 Data Analyst Intern  
+<b>IBM SkillsBuild Student Ambassador Program</b>  
+🗓️ <i>Jun 2024 – Aug 2024 · 3 mos (Hybrid)</i>  
+📈 Conducted exploratory data analysis & built ML models  
+💡 <b>Skills:</b> Python · Data Science · Jupyter
+
+---
+
+### ⚙️ Development Intern  
+<b>IBM SkillsBuild Student Ambassador Program</b>  
+🗓️ <i>Jun 2024 – Jul 2024 · 2 mos</i>  
+⚙️ Developed APIs and integrated AI/ML modules  
+💡 <b>Skills:</b> API · Machine Learning · AI
+
+</div>
+
+---
+
+## 🛠️ Skills & Expertise
+
+<div align="center">
+
+### 💻 Programming Languages  
+Python · R · Java · C · C++ · SQL · JavaScript · TypeScript · PHP · HTML · CSS · Go · Assembly
+
+---
+
+### 🌐 Web Development  
+HTML · CSS · JavaScript · Node.js · React.js · Angular  
+Bootstrap · jQuery · AJAX · JSON · XML
+
+---
+
+### 📊 Data Science & Machine Learning  
+EDA · Feature Engineering · Supervised / Unsupervised Learning  
+<b>Libraries:</b> Scikit-learn · TensorFlow · Keras · PyTorch · OpenCV  
+Matplotlib · Seaborn · Plotly
+
+---
+
+### 🧠 AI & Deep Learning  
+TensorFlow · Keras · PyTorch · Neural Networks · NLP
+
+---
+
+### 🗃️ Database Management  
+MySQL · SQL Server · PostgreSQL · SQLite · MongoDB · PL/SQL
+
+---
+
+### 📱 Mobile App Development  
+Flutter · Dart · Android Studio
+
+---
+
+### 🛠️ Software Engineering & OOP  
+Object-Oriented Programming Design · Software Architecture
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+🏅 <b>Certificate of Appreciation</b> – <i>Ministry of Culture</i>  
+📜 Recognized for contribution to AI & tech innovation
+
+---
+
+🎯 <b>Key Accomplishments</b>  
+🚀 Developed AI-powered tools  
+🧠 Built automated desktop assistants  
+📈 Contributed significantly to ML & Data Science innovations
+
+</div>
+
+---
+
+## 🖥️ Projects
+
+<div align="center">
+
+### 🌦️ Weather App & 5-Day Forecast  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![OpenWeather](https://img.shields.io/badge/OpenWeather_API-FA7613?style=flat&logo=openweathermap&logoColor=white)  
+📌 Real-time weather updates + dynamic 5-day forecast display.  
+📂 **Features**: City search · Live temperature · Forecast graph
+
+---
+
+### 🎤 Jarvis Desktop Voice Assistant  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
+![PyAudio](https://img.shields.io/badge/PyAudio-AudioControl-green)  
+🗣️ Voice-controlled automation assistant for desktop tasks.  
+📂 **Features**: Greetings · Voice Commands · Notes · Automation
+
+---
+
+### 📝 AI Resume Analyzer  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-yellowgreen)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)  
+📊 Resume-job match analyzer using NLP and ML.  
+📂 **Features**: Text parsing · Score prediction · Graphs · Suggestions
+
+---
+
+### 🖼️ Face Recognition Attendance System  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)  
+📷 Face-based real-time attendance logger.  
+📂 **Features**: Camera integration · SQLite log · Live capture & mark
+
+---
+
+### 💼 Accounting Software  
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+📈 Full-fledged accounting system for small businesses.  
+📂 **Features**: Trial Balance · Ledger · Journal Entries · Export PDF
+
+---
+
+### 💡 AI-Nexus  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Predictive-orange)  
+🧠 Cross-domain recommendation engine using AI/ML models.  
+📂 **Features**: Multi-purpose ML models · Domain adaptivity
+
+---
+
+### 🧑‍💻 GitHub Terminal Tool  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![CLI](https://img.shields.io/badge/CLI-Tool-informational)
+![GitHub](https://img.shields.io/badge/GitHub-Actions-000?style=flat&logo=github&logoColor=white)  
+💻 Command-line tool to manage and clone GitHub repos effortlessly.  
+📂 **Features**: Fast repo clone · Profile fetch · Token auth
+
+</div>
+
+---
+
+## 🚀 Let's Connect and Code!
+
+<div align="center">
+
+🤝 <b>Open to Collaboration, Learning & Building Together!</b>  
+Feel free to reach out for hackathons, tech talks, passion projects, or just geeking out over AI, code, or futuristic ideas.
+
+📫 Drop a message. Let’s create something amazing together.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehuljain923/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mehuljain133)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mca_70817704423_mehul@vipstc.edu.in)
+
+</div>
+
+---
+
+<p align="center">
+  <sub>© 2025 <a href="https://github.com/mehuljain133">mehuljain133</a> • Crafted with ❤️, curiosity & code</sub>
+</p>
