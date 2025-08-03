@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehul Jain</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=600&height=60&lines=AI+%7C+ML+%7C+DS+%7C+Python+Enthusiast;Creative+GUI+Developer+%26+Tech+Explorer;Open+Source+Contributor+%26+Builder;Let's+Connect+and+Innovate+Together!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=39FF14&background=0A0A0AFF&center=true&vCenter=true&width=750&lines=🧠+AI+%7C+⚙️+ML+%7C+📊+DS+%7C+🐍+Python;💻+Coding+Nights+%26+Terminal+Dreams;🎨+GUI+with+Design+Thinking;🚀+Let%27s+Code,+Connect,+Create!" alt="Typing SVG" />
+
 
 </p>
 
