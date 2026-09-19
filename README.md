@@ -261,5 +261,3 @@ production-grade AI systems.**
   ⭐ If you find my work useful, consider starring a repository and following along.
 </p>
 ```
-
-I intentionally changed **“Python Developer”** from the headline to **“AI Consultant | AI Advisor | AI Engineer”**, because that better reflects your current positioning and keeps Python as an implementation strength rather than your entire professional identity.
